@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @RedCatHuu
-- 
+- These stats were generated using
+- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md#top-languages-card
+- https://github.com/ryo-ma/github-profile-trophy
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedCatHuu&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedCatHuu)](https://github.com/anuraghazra/github-readme-stats)
